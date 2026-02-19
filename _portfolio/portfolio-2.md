@@ -1,6 +1,6 @@
 ---
 title: "Southern California Housing Market Analysis - Group Project"
-excerpt: "This project analyzes Southern California home prices using exploratory data analysis, feature engineering, and multiple predictive modeling approaches. We evaluate Linear Regression, Ridge Regression, and XGBoost to understand how different algorithms capture the complexity of the market.
+excerpt: "This project analyzes Southern California home prices using exploratory data analysis, feature engineering, and multiple predictive modeling approaches. We evaluate Linear Regression, Ridge Regression, and XGBoost to understand how different algorithms capture the complexity of the market. teststseers
 
  <br/><img src='/images/socal.png'>"
 collection: portfolio
